@@ -27,7 +27,7 @@ Hi! I'm [Alejandro Sanchez @alesanchezr](https://github.com/alesanchezr), really
 6. Using `:before` and `:after`.
 
 <!-- hide -->
-#### Before we start... other related tutorials</h4>
+#### Before we start... other related tutorials:</h4>
 <ol>
   <li><a href="https://github.com/4GeeksAcademy/html-tutorial-exercises-course">Learn HTML</a></li>
   <li><a href="https://github.com/4GeeksAcademy/html-forms-tutorial-exercises">Learn HTML Forms</a></li>
